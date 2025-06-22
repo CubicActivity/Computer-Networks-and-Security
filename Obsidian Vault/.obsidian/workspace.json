@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "6ff9704cbed685ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a4b9f168d086d77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a19cbf241358b02a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "KMIB juni 2/8. CBC.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "8. CBC"
+            }
+          },
+          {
+            "id": "127e67eed7c355fb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20250615214312_267.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250615214312_267"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93e0b96bc4804e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a8bd849f34a28ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e43b76fc82ad0b7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "410c54e6ebc120f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5cca27d3e6ee85e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f31dd0d85389086f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c3039fe4862b4a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb26e33c7278f1d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "whg.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for whg"
+            }
+          },
+          {
+            "id": "a40257b84ee52e6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "whg.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from whg"
+            }
+          },
+          {
+            "id": "19ec70e2c32b8fb7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a3d2c6701c33b87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "whg.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of whg"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e43b76fc82ad0b7d",
+  "lastOpenFiles": [
+    "Pasted Image 20250615194823_328.png",
+    "Pasted Image 20250615191807_366.png",
+    "Pasted Image 20250615185813_827.png",
+    "KMIB solved Januari/7. smth ig.md",
+    "KMIB solved Januari/6. cypher.md",
+    "KMIB solved Januari/5. gobackn.md",
+    "KMIB solved Januari/4. CIDR blokovi.md",
+    "KMIB solved Januari/3. nepostojan http.md",
+    "KMIB solved Januari/2. mrezha vs car.md",
+    "KMIB solved Januari/1. TCP congestion control CWND.md",
+    "KMIB juni 2/Drawing 2025-06-15 22.47.09.excalidraw.md",
+    "KMIB juni 2/9. Blokovi.md",
+    "KMIB juni 2/8. CBC.md",
+    "KMIB juni 2/7. TCP Reno.md",
+    "KMIB juni 2/6. Fragments.md",
+    "KMIB juni 2/5. TCP slow start.md",
+    "KMIB juni 2/4. broadcast_collision.md",
+    "KMIB juni 2/3. UDP Checksum.md",
+    "KMIB juni 2/2. Nepostojan HTTP.md",
+    "KMIB juni 2/1. Ip addresses.md",
+    "KMIB juni 1/3. physical transfer.md",
+    "KMIB juni 1/4. postojan http.md",
+    "KMIB juni 1/5. util window size.md",
+    "KMIB juni 1/7. RIP (Poison reverse).md",
+    "KMIB juni 1/8. RootBridge.md",
+    "KMIB juni 1/9. Fragments.md",
+    "KMIB juni 1/10. sumarizacija.md",
+    "Pasted Image 20250615224724_865.png",
+    "Pasted Image 20250615223431_814.png",
+    "KMIB juni 2",
+    "Pasted Image 20250615214526_297.png",
+    "KMIB juni 1/6. blokovi.md",
+    "Pasted Image 20250615214312_267.png",
+    "KMIB juni 1",
+    "KMIB solved/Untitled.canvas",
+    "KMIB solved Januari",
+    "Дискретни структури 2/Pasted Image 20250311022812_353.png",
+    "Pasted Image 20250614184619_367.png",
+    "Pasted Image 20250614172412_963.png",
+    "Mrezhi",
+    "Goals",
+    "Gbook",
+    "AI",
+    "Калкулус 2",
+    "Дискретни структури 2",
+    "Excalidraw"
+  ]
+}
